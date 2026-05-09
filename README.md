@@ -2,15 +2,21 @@
 
 ###
 
-<h4 align="left">🚀 About me</h4>
-
-###
-
 <img align="right" height="150" src="https://media.tenor.com/Ag8zeVQT3fYAAAAM/wizard-cat-cat-wizard.gif"  />
 
 ###
 
+<h4 align="left">🚀 About me</h4>
+
+###
+
 <p align="left">I'm a software development student currently halfway through my degree. I'm expanding my knowledge in both front-end and back-end development, and lately I've been leaning toward data analysis. I love learning and creating random things using knowledge I've picked up overnight.</p>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ###
 
@@ -39,14 +45,5 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Amatesaurius/Amatesaurius/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Amatesaurius/Amatesaurius/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Amatesaurius&theme=merko" alt="GitHub Streak" /></a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Amatesaurius/Amatesaurius/snake-output/snake.svg" alt="Snake animation" />
-
-###
